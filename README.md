@@ -8,7 +8,7 @@ I'm a computer engineer with a cybersecurity master who is passionate play CTFs,
 
 
 ![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliebergen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliebergen&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
