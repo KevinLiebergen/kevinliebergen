@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=kevinliebergen&show_icons=true&theme=radical
+![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&show_icons=true&theme=radical)
+
+
 
 <!--
 **KevinLiebergen/kevinliebergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
