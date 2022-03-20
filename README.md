@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&show_icons=true&theme=radical)
+![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&count_private=true&show_icons=true&theme=radical)
 
 
 
