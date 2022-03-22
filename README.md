@@ -3,7 +3,6 @@
 I'm a computer engineer with a cybersecurity master who is passionate play CTFs, programming and all around cybersecurity.
 
 - 🔭 I’m currently a malware researcher at IMDEA Software Institue.
-- 👯 I’m looking for a malware Phd offer.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
 
 
