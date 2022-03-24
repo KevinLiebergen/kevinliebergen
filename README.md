@@ -5,7 +5,9 @@ I'm a computer engineer with a cybersecurity master who is passionate play CTFs,
 - 🔭 I’m currently a malware researcher at IMDEA Software Institue.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
 
-<center>![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&count_private=true&show_icons=true&theme=radical)</center>
+<div align="center">
+![KevinLiebergen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinliebergen&count_private=true&show_icons=true&theme=radical)
+</div>
 
 
 <!--
