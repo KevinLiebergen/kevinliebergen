@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineer with a cybersecurity master who is passionate play CTFs, programming and all around cybersecurity.
+I'm a computer engineer with a cybersecurity master who is passionate about CTFs, programming and everything related to cybersecurity.
 
 - 🔭 I’m currently a PhD Student in Malware Analysis at IMDEA Software Institue.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
