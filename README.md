@@ -2,7 +2,7 @@
 
 I'm a computer engineer with a cybersecurity master who is passionate about CTFs, programming and everything related to cybersecurity.
 
-- 🔭 I’m currently a PhD Student in systems security at IMDEA Software Institue.
+- 🔭 I’m currently a PhD Student in system security at IMDEA Software Institue.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
 
 
