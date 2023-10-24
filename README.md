@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineer with a cybersecurity master who is passionate about CTFs, programming and everything related to cybersecurity.
+Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
 
 - 🔭 I’m currently a PhD Student in security at IMDEA Software Institute.
 - [AvClass](https://github.com/malicialab/avclass) contributor
