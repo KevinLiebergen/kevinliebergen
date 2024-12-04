@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
-
-- [AvClass](https://github.com/malicialab/avclass) contributor
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
-
+I am a Ph.D. Student in Cybercrime Attribution at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
 
 
 <p align="center">
@@ -14,6 +10,9 @@ I am a Ph.D. Student at IMDEA Software Institute. I am part of the security grou
 
 
 <!--
+- [AvClass](https://github.com/malicialab/avclass) contributor
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kevin-van-liebergen-avila/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliebergen&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
