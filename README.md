@@ -4,15 +4,13 @@ I am a Ph.D. Student in Cybercrime Attribution at IMDEA Software Institute. I am
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinliebergen&count_private=true&show_icons=true&theme=radical">
+  <img src="![Profile Views](https://github-vistors-counter.onrender.com/github?username=https://github.com/KevinLiebergen)">
 </p>
 
  <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
  <div align="center">
  <img src="https://profile-counter.glitch.me/{kevinliebergen}/count.svg" alt="kevinliebergen" />
 </div>
-
-![Profile Views](https://github-vistors-counter.onrender.com/github?username=https://github.com/KevinLiebergen)
 
 
 <!--
