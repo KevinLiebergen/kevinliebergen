@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Ph.D. Student in Cybercrime Attribution at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
+I am a Ph.D. Student in Cybercrime and Threat Intelligence at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
 
 
 <p align="center">
